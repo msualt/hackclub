@@ -32,7 +32,7 @@
 | [CDRH104RNP-101NC](https://www.digikey.com/en/products/detail/sumida-america-inc/CDRH104RNP-101NC/956623) | fight back emf sometthing something | 4 | $1.39 | $5.56 | [Sumida America Inc.](https://www.digikey.com/en/products/detail/sumida-america-inc/CDRH104RNP-101NC/956623) |
 | [UKT1C471MPD1TD](https://www.digikey.com/en/products/detail/nichicon/UKT1C471MPD1TD/4317259) | Big capacitor (for motors so they dont brown) | 2 | $0.95 | $1.90 | [Nichicon](https://www.digikey.com/en/products/detail/nichicon/UKT1C471MPD1TD/4317259) |
 | **Parts subtotal** | — | — | — | **$66.35** | — |
-| **Tax & shipping** | — | — | — | **$11.20** | — |
-| **Total** | — | — | — | **$77.55** | — |
+| **Tax & shipping** | — | — | — | **$23.20** | — |
+| **Total** | — | — | — | **$89.55** | — |
 
-**$12.55 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$24.55 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
