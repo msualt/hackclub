@@ -32,7 +32,7 @@
 | [UKT1C471MPD1TD](https://www.digikey.com/en/products/detail/nichicon/UKT1C471MPD1TD/4317259) | Big capacitor (for motors so they dont brown) | 4 | $0.95 | $3.80 | [Nichicon](https://www.digikey.com/en/products/detail/nichicon/UKT1C471MPD1TD/4317259) |
 | [SS14 Diode](https://www.aliexpress.us/item/3256806805197640.html?spm=a2g0o.cart.0.0.7a0e38damtOhnd&mp=1&pdp_npi=6%40dis%21USD%21USD+2.75%21USD+1.82%21%21USD+1.82%21%21%21%402103128917917280676521252e10a4%2112000038974081379%21ct%21US%212965475174%21%211%210%21&gatewayAdapt=glo2usa) | Makes current go one way | 1 | $1.82 | $1.82 | [IGMOPNRQ](https://www.aliexpress.us/item/3256806805197640.html?spm=a2g0o.cart.0.0.7a0e38damtOhnd&mp=1&pdp_npi=6%40dis%21USD%21USD+2.75%21USD+1.82%21%21USD+1.82%21%21%21%402103128917917280676521252e10a4%2112000038974081379%21ct%21US%212965475174%21%211%210%21&gatewayAdapt=glo2usa) |
 | **Parts subtotal** | — | — | — | **$69.08** | — |
-| **Tax & shipping** | — | — | — | **$25.20** | — |
-| **Total** | — | — | — | **$94.28** | — |
+| **Tax & shipping** | — | — | — | **$23.20** | — |
+| **Total** | — | — | — | **$92.28** | — |
 
-$5.72 left of the tier's funding.
+$7.72 left of the tier's funding.
